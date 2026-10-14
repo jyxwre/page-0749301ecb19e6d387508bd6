@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8525fb103681a3c563e0d0f5",
+  "owner": "jyxwre",
+  "repo": "page-0749301ecb19e6d387508bd6",
+  "title": "clashmi安卓",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0749301ecb19e6d387508bd6",
+      "a": "clashmi安卓",
+      "b": "",
+      "entity": "clashmi安卓",
+      "brand": "clashmi安卓",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ce0a5911bfe4c9fd6d3b2d66092527773cd124c36337f0faad70fd10adf14b4a",
+      "content": {
+        "keyword1": "clashmi安卓",
+        "keyword2": "",
+        "primary_entity": "clashmi安卓",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi安卓提供安全稳定的VPN网络加速器服务，官网客户端下载，支持高速流量和企业级功能。",
+          "AI_DESCRIPTION": "clashmi安卓提供安全稳定的VPN网络加速器服务，官网客户端下载，支持高速流量和企业级功能。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>@media (max-width: 768px){.container{padding:10px}.card{margin-bottom:15px}}h1{font-size:1.8rem}</style><div class=\"container\"><header><h1>clashmi安卓</h1><nav><a href=\"#intro\">首页</a><a href=\"#plans\">方案</a><a href=\"#faq\">FAQ</a></nav></header><main><section id=\"intro\"><h2>品牌简介</h2><p>clashmi安卓是专业的VPN网络加速器平台，专注于为用户提供安全稳定的客户端下载和高速节点服务。无论您是个人用户还是企业团队，都能通过先进的流量管理和节点池，获得流畅的网络体验。我们支持多种协议和设备，助力您畅享无忧上网。</p></section><section id=\"cases\"><h2>使用场景</h2><div><div><h3>游戏加速</h3><p>IPLC专线优化网络延迟，降低丢包率，让您的游戏体验更加流畅稳定。</p></div><div><h3>流媒体解锁</h3><p>支持Netflix、Disney+等平台解锁，畅享高清内容。</p></div><div><h3>企业团队</h3><p>多设备同时在线，专属高带宽节点和定制路由服务。</p></div></div></section><section id=\"operation\"><h2>操作指南</h2><ol><li>访问官网下载Clashmi安卓客户端</li><li>注册账号并获取订阅链接</li><li>在客户端中导入订阅并连接节点</li><li>根据需求选择线路进行加速</li></ol><p>注：建议使用官网提供的最新客户端以获得最佳体验。</p></section><section id=\"plans\"><h2>资费方案</h2><div><div><h3>基础版</h3><p>¥15/月 <span>（按年付仅需 ¥150/年）</span></p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合个人用户</p></div><div><div>推荐</div><h3>旗舰版</h3><p>¥35/月 <span>（按年付仅需 ¥350/年）</span></p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>最佳选择</p></div><div><h3>团队版</h3><p>¥85/月 <span>（按年付仅需 ¥850/年）</span></p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>适合大型团队</p></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>什么是clashmi安卓？</summary><p>clashmi安卓是一个专业的VPN网络加速器平台，提供安全稳定的客户端下载和节点服务。通过先进的代理技术和节点池，帮助用户实现高速稳定的网络连接。</p></details><details><summary>如何下载客户端？</summary><p>请访问我们的官网，点击下载最新版的Clashmi安卓客户端。下载后按照提示进行安装和激活。</p></details><details><summary>不同方案如何选择？</summary><p>基础版适合个人用户，旗舰版提供最佳平衡，团队版适合大型组织。根据您的流量需求和设备数量选择相应方案。</p></details><details><summary>支持哪些设备？</summary><p>目前支持Android设备，未来将扩展到更多平台。所有方案均支持多台设备同时在线。</p></details><details><summary>流量超出后会怎样？</summary><p>超出部分将暂停加速功能，但您可以随时升级方案或联系客服获取更多流量包。</p></details><details><summary>如何获取售后支持？</summary><p>旗舰版和团队版均提供7x24工单支持，基础版提供标准客服服务。登录账号后即可提交工单。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© 2024 clashmi安卓 官网客户端下载</p><p>友情链接：暂无</p><p>广告位：暂无</p><div><a href=\"#\">隐私政策</a><a href=\"#\">用户协议</a></div></footer></div>",
+          "hash": "e9a2f31006d5096b20a37dac72224ba5cf88778c50a666378df589c5b5189983",
+          "seo": {
+            "title": "clashmi安卓 - 安全VPN加速器客户端下载官网",
+            "keywords": "clashmi安卓,VPN加速器,客户端下载,机场,官网,加速器",
+            "description": "clashmi安卓提供安全稳定的VPN网络加速器服务，官网客户端下载，支持高速流量和企业级功能。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xinzhu-edu.cn",
+    "host": "p-bc156fe601.xinzhu-edu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b0a395c4a9e65f61dcebc3d0cb08b943ff5e4adc9ce69249c2fd3e5ec540f380",
+    "sitemap.xml": "c25f117f89cac1c7f0a4fb5a799b328d711c47fe551d79b0fec8353dd41e79ce",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "74bcbc012cfed503bb48a399b1abeff90c24e0619af735287607ac4f884e3f20",
+    "robots.txt": "077a0314a961f77795b7173665af247b21f1e3cf795cd6d90bf30b4af9d38944",
+    "0fb721efdf73cca3ed836c21568841ac.txt": "e499c3d5d9f791064adee514da14a954b2c41911c6cb3b3d797855f02888dea9"
+  },
+  "revision": "553981d0d21e745913bbc83e0d95598e9a0e56203e638258f58ded688d93fb1f"
+}
